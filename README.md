@@ -20,4 +20,4 @@
 ** Для выходных значений применяются 4 или 5 треугольных функций принадлежности (trimf).
 
 ## Примеры
-<img width="300px" src="https://github.com/wybin4/fuzzy-logic/blob/main/surface_example.png"/><img width="300px" src="https://github.com/wybin4/fuzzy-logic/blob/main/terms_example.png"/>
+<img width="600px" src="https://github.com/wybin4/fuzzy-logic/blob/main/surface_example.png"/><img width="600px" src="https://github.com/wybin4/fuzzy-logic/blob/main/terms_example.png"/>
